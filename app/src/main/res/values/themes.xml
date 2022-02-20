@@ -4,6 +4,8 @@
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorPrimarySurface">@color/colorPrimary</item>
+        <item name="colorSecondaryContainer">@color/colorPrimary</item>
         <item name="colorAccent">@color/colorAccent</item>
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>

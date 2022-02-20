@@ -7,19 +7,19 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="ug.global.fluish.ui.home.HomeFragment"
+        android:name="ug.global.fluish.ui.sales.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="ug.global.fluish.ui.dashboard.DashboardFragment"
+        android:name="ug.global.fluish.ui.investment.InvestmentFragment"
         android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        tools:layout="@layout/fragment_investment" />
 
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="ug.global.fluish.ui.notifications.NotificationsFragment"
+        android:name="ug.global.fluish.ui.products.ProductsFragment"
         android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        tools:layout="@layout/fragment_products" />
 </navigation>

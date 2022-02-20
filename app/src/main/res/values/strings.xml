@@ -5,4 +5,8 @@
     <string name="title_notifications">Products</string>
     <string name="hi_nahabwe">Hi Nahabwe</string>
     <string name="pending_sales">Pending sales</string>
+    <string name="update_investment">Update Investment</string>
+    <string name="your_total_investment">Your total Investment</string>
+    <string name="add">Add</string>
+    <string name="add_product">Add product</string>
 </resources>
