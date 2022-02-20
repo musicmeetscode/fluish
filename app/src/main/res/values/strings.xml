@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fluish</string>
+    <string name="title_home">Sales</string>
+    <string name="title_dashboard">Investment</string>
+    <string name="title_notifications">Products</string>
+    <string name="hi_nahabwe">Hi Nahabwe</string>
+    <string name="pending_sales">Pending sales</string>
+</resources>
